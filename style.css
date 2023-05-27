@@ -20,6 +20,16 @@
     border-radius: 100%;
 }
 
+#mainDiv{
+    margin-left: 100px;
+}
+
 #licoes_aprendidas{
     margin-left: 25px;
+    display: inline-block;
+}
+
+#licoes_a_aprender{
+    margin-left: 25px;
+    display: inline-block;
 }
