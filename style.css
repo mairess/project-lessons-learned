@@ -22,6 +22,7 @@
 
 #mainDiv{
     margin-left: 100px;
+    border: 1px solid red;
 }
 
 #licoes_aprendidas{
@@ -32,4 +33,11 @@
 #licoes_a_aprender{
     margin-left: 25px;
     display: inline-block;
+}
+
+#rodape{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    border: 1px solid red;
 }
