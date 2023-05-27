@@ -11,8 +11,14 @@
     border: 1px dashed red;
 }
 
-#cabecalho samp{
+#cabecalho spam{
     color: green;
+}
+
+#cabecalho{
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 #titulo{
@@ -21,6 +27,7 @@
 
 #profileSection{
     text-align: center;
+    margin-top: 50px;
 }
 
 #minha_foto{
