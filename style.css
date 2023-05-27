@@ -15,12 +15,17 @@
     text-align: center;
 }
 
+#profileSection{
+    border: 1px solid red;
+    text-align: center;
+}
+
 #minha_foto{
     width: 150px;
     border-radius: 100%;
 }
 
-#mainDiv{
+#contentSection{
     margin-left: 100px;
     border: 1px solid red;
 }
