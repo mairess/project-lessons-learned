@@ -3,19 +3,16 @@
     padding: 0;
     box-sizing: border-box;
     background-color:rgb(253, 251, 251);
-}
-
-.border{
-    border: 1px solid red;
+    font-family: monospace;
+    line-height: 1.6;
 }
 
 .borderDashed{
     border: 1px dashed red;
 }
 
-#cabecalho{
-    position: relative;
-    top: 0;
+#cabecalho samp{
+    color: green;
 }
 
 #titulo{
@@ -48,21 +45,29 @@
     left: 10px;
 }
 
-.learningDescription1 article{
-    max-width: 500px;
-    margin: 20px auto;
-}
-
-aside{
-    max-width: 400px;
-    position: absolute;
-    right: 5%;
-    top: 50%;
-}
-
 table{
     position: absolute;
     right: 10px;
-    bottom: 10px;
-    padding: 10px;
+    bottom: 1px;
+    padding: 2px;
+}
+
+table, th, tr, td{
+    border: 1px dashed red;
+}
+
+#profileSection p{
+    font-size: 25px;   
+}
+
+.lado-esquerdo{
+    max-width: 400px;
+    float: left;
+    margin-left: 350px;
+}
+
+.lado-direito{
+    max-width: 400px;
+    float: right;
+    margin-right: 350px;
 }
