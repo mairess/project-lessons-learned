@@ -2,79 +2,86 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:rgb(253, 251, 251);
+    background-color: rgb(253, 251, 251);
     font-family: monospace;
     line-height: 1.6;
 }
 
-.borderDashed{
+.borderDashed {
     border: 1px dashed red;
 }
 
-#cabecalho spam{
+#cabecalho spam {
     color: green;
 }
 
-#cabecalho{
+#cabecalho {
     position: fixed;
     top: 0;
     width: 100%;
 }
 
-#titulo{
+#titulo {
     text-align: center;
 }
 
-#profileSection{
+#profileSection {
     text-align: center;
     margin-top: 50px;
 }
 
-#minha_foto{
+#minha_foto {
     width: 150px;
     border-radius: 100%;
 }
 
-#licoes_aprendidas{
+#licoes_aprendidas {
     margin: 20px 25px;
     /* margin-left: 25px; */
     display: inline-block;
 }
 
-#licoes_a_aprender{
+#licoes_a_aprender {
     margin-left: 25px;
     display: inline-block;
 }
 
-#rodape{
+#rodape {
     position: absolute;
     bottom: 10px;
     left: 10px;
 }
 
-table{
+table {
     position: absolute;
     right: 10px;
     bottom: 1px;
     padding: 2px;
 }
 
-table, th, tr, td{
+table,
+th,
+tr,
+td {
     border: 1px dashed red;
 }
 
-#profileSection p{
-    font-size: 25px;   
+#profileSection p {
+    font-size: 25px;
 }
 
-.lado-esquerdo{
-    max-width: 400px;
+article {
+    width: 50%;
+}
+
+aside {
+    width: 40%;
+}
+
+.lado-esquerdo {
     float: left;
-    margin-left: 350px;
 }
 
-.lado-direito{
-    max-width: 400px;
+.lado-direito {
     float: right;
-    margin-right: 350px;
 }
