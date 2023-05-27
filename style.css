@@ -5,10 +5,13 @@
     background-color:rgb(253, 251, 251);
 }
 
+.border{
+    border: 1px solid red;
+}
+
 #cabecalho{
     position: relative;
     top: 0;
-    border: 1px solid red;
 }
 
 #titulo{
@@ -16,18 +19,12 @@
 }
 
 #profileSection{
-    border: 1px solid red;
     text-align: center;
 }
 
 #minha_foto{
     width: 150px;
     border-radius: 100%;
-}
-
-#contentSection{
-    margin-left: 100px;
-    border: 1px solid red;
 }
 
 #licoes_aprendidas{
@@ -44,5 +41,11 @@
     position: absolute;
     bottom: 10px;
     left: 10px;
-    border: 1px solid red;
+}
+
+.learningDescription1 article{
+    max-width: 500px;
+    display: inline-block;
+    margin: 20px 400px;
+    border: 1px dashed red;
 }
