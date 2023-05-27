@@ -32,7 +32,8 @@
 }
 
 #licoes_aprendidas{
-    margin-left: 25px;
+    margin: 20px 25px;
+    /* margin-left: 25px; */
     display: inline-block;
 }
 
@@ -49,7 +50,7 @@
 
 .learningDescription1 article{
     max-width: 500px;
-    margin: auto;
+    margin: 20px auto;
 }
 
 aside{
@@ -57,4 +58,11 @@ aside{
     position: absolute;
     right: 5%;
     top: 50%;
+}
+
+table{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    padding: 10px;
 }
