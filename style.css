@@ -1,87 +1,82 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: rgb(253, 251, 251);
-    font-family: monospace;
-    line-height: 1.6;
+* {  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(253, 251, 251);
+  font-family: monospace;
+  line-height: 1.6;
 }
 
 .borderDashed {
-    border: 1px dashed red;
+  border: 1px dashed red;
 }
 
-#cabecalho spam {
-    color: green;
+#cabecalho span {
+  color: green;
 }
 
 #cabecalho {
-    position: fixed;
-    top: 0;
-    width: 100%;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 #titulo {
-    text-align: center;
+  text-align: center;
 }
 
 #profileSection {
-    text-align: center;
-    margin-top: 50px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 #minha_foto {
-    width: 150px;
-    border-radius: 100%;
+  width: 150px;
+  border-radius: 100%;
 }
 
 #licoes_aprendidas {
-    margin: 20px 25px;
-    /* margin-left: 25px; */
-    display: inline-block;
+  margin: 20px 25px;
+  display: inline-block;
 }
 
 #licoes_a_aprender {
-    margin-left: 25px;
-    display: inline-block;
+  margin-left: 25px;
+  display: inline-block;
 }
 
 #rodape {
-    position: absolute;
-    bottom: 10px;
-    left: 10px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
 }
 
 table {
-    position: absolute;
-    right: 10px;
-    bottom: 1px;
-    padding: 2px;
+  position: absolute;
+  right: 10px;
+  bottom: 1px;
+  padding: 2px;
 }
 
-table,
-th,
-tr,
-td {
-    border: 1px dashed red;
+table , th , tr , td {
+  border: 1px dashed red;
 }
 
 #profileSection p {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 article {
-    width: 50%;
+  width: 50%;
 }
 
 aside {
-    width: 40%;
+  width: 40%;
 }
 
 .lado-esquerdo {
-    float: left;
+  float: left;
 }
 
 .lado-direito {
-    float: right;
+  float: right;
 }
