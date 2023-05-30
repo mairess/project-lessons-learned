@@ -90,10 +90,8 @@ aside {
 }
 
 #rodape {
-  position: relative;
-  clear: both;
-  width: 100%;
-  top: 9px;
+  position: fixed;
+  bottom: 0;
 }
 
 #rodape p {
