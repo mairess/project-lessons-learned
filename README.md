@@ -8,12 +8,8 @@ A página foi desenvolvida do zero, utilizando os arquivos `index.html` e `style
 
 ## Competências desenvolvidas
 
-Compreensão da estrutura (HTML) de uma página, permitindo uma análise detalhada de seu funcionamento.
-
-Compreensão da aplicação do estilo (CSS) em uma página, habilidade essencial para a formatação visual e estética.
-
-Capacidade de construir páginas utilizando HTML e CSS, demonstrando proficiência na criação de conteúdo web.
-
-Experiência em realizar manutenções em páginas já existentes, assegurando a continuidade e qualidade do conteúdo online.
-
-Aplicação prática do Layout e Box Model, evidenciando a habilidade de criar designs eficientes e visualmente atrativos para as páginas web.
+- Compreensão da estrutura (HTML) de uma página.
+- Compreensão da aplicação do estilo (CSS) em uma página.
+- Capacidade de construir páginas utilizando HTML e CSS.
+- Capacidade realizar manutenções em páginas já existentes.
+- Capacidade de aplicar Layout e Box Model nas páginas web.
