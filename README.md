@@ -8,9 +8,7 @@ A página foi desenvolvida do zero, utilizando os arquivos `index.html` e `style
 
 ## Rode o projeto localmente
 
-```JSON
-Basta abir o index.html no navegador.
-```
+- Basta abir o `index.html` no navegador.
 
 ## Competências desenvolvidas
 
